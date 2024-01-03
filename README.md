@@ -6,9 +6,13 @@ The picture, (see this problem under Ternary Models in your online textbook), sh
 
 The green and black ants do not like each other and, therefore, will fight unless separated by sticks as shown in the picture, below. For this case, only three sticks are needed to separate the ants by color. The sticks can be placed anywhere between the ants and need not be positioned at meter increments on the log.
 Your assignment is to write a computer program that calculates how many sticks are needed to separate the green and black ants. The format for the input file is shown below.
+
 1
+
 15
+
 0 6 9
+
 3 13
 
 The first line in the file contains number of test cases.
